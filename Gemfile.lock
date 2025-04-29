@@ -105,7 +105,7 @@ GEM
     minitest (5.22.2)
     mysql2 (0.3.11)
     mysql2 (0.3.11-x86-mingw32)
-    net-imap (0.4.19)
+    net-imap (0.4.20)
       date
       net-protocol
     net-pop (0.1.2)
